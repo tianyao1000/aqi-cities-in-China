@@ -45,6 +45,11 @@ https://tianyao1000.shinyapps.io/AQI_of_cities_in_China/
 
 
 ---
-## Data source:
-https://www.aqistudy.cn/historydata/index.php
+## Reference:
+### Data source:  
+https://www.aqistudy.cn/historydata/index.php  
+### Source code (shiny):  
+please refer to the "AQI_of_cities_in_China" folder in the repo.
+
+
 
